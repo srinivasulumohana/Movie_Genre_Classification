@@ -10,7 +10,10 @@ MENTOR : Neela Santhosh Kumar
 
 
 🎬 Movie Genre Classification using Machine Learning
+
+
 📌 Project Overview
+
 
 The Movie Genre Classification project is a complete Machine Learning and Natural Language Processing (NLP) application developed using Python, Scikit-learn, Pandas, Streamlit, and TF-IDF Vectorization. The main objective of this project is to automatically predict the genre of a movie based on its description or plot summary.
 
@@ -54,6 +57,7 @@ To build Machine Learning classification models
 To evaluate model performance using classification metrics
 To develop a movie genre prediction system
 To create an interactive dashboard using Streamlit
+
 ❓ Problem Statement
 
 Movie streaming platforms and entertainment applications contain thousands of movies across different genres. Manually categorizing movies based on descriptions becomes difficult and inefficient as the dataset size increases.
@@ -64,6 +68,7 @@ Understanding movie plot descriptions
 Extracting meaningful textual patterns
 Automatically classifying movies into genres
 Improving movie organization and recommendation systems
+
 📂 Dataset Information
 
 This project uses the IMDb Genre Classification Dataset downloaded from Kaggle.
